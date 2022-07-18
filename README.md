@@ -11,12 +11,11 @@ A basic pychain ledger structure that records and validates transactions.
 `streamlit run your_script.py`
 
 ### Example Blockchain
+![ledger](https://user-images.githubusercontent.com/97932685/179623436-c7282444-f6b8-435c-b44d-e444adcae128.png)
 
-image here
 
 ### Blockchain validation
-
-image here
+![validate_chain](https://user-images.githubusercontent.com/97932685/179623465-cff6736d-d68f-4abf-b11c-e7ccf07933b9.png)
 
 ## Contributors
 
