@@ -6,7 +6,7 @@ A basic pychain ledger structure that records and validates transactions.
 
 `pip install streamlit`
 
-- To run the ledge in streamlit:
+- To run the ledger in streamlit:
 
 `streamlit run your_script.py`
 
