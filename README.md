@@ -1,7 +1,7 @@
 # Ledger1
 A basic pychain ledger structure that records and validates transactions.
 
-### Usage and Installation
+### Installation
 - To install:
 
 `pip install streamlit`
@@ -10,12 +10,14 @@ A basic pychain ledger structure that records and validates transactions.
 
 `streamlit run your_script.py`
 
-### Example Blockchain
+### Usage 
+- Enter values for sender, receiver and amount. Click 'add block'. 
 ![ledger](https://user-images.githubusercontent.com/97932685/179623436-c7282444-f6b8-435c-b44d-e444adcae128.png)
-
-
-### Blockchain validation
+- Adjust the difficulty of the block with the slider on the left side of the page. 
+image here
+- Click 'validate chain' to verify all transactions in the ledger
 ![validate_chain](https://user-images.githubusercontent.com/97932685/179623465-cff6736d-d68f-4abf-b11c-e7ccf07933b9.png)
+
 
 ## Contributors
 
