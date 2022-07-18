@@ -12,15 +12,15 @@ A basic pychain ledger structure that records and validates transactions.
 
 ### Usage 
 - Enter values for sender, receiver and amount. Click 'add block'. 
-![ledger](https://user-images.githubusercontent.com/97932685/179623436-c7282444-f6b8-435c-b44d-e444adcae128.png)
+- ![ledger](https://user-images.githubusercontent.com/97932685/179623436-c7282444-f6b8-435c-b44d-e444adcae128.png)
 
 
 - Adjust the difficulty of the block with the slider on the left side of the page. 
-![block_difficulty](https://user-images.githubusercontent.com/97932685/179624385-573dfd65-53a6-466e-89fd-6126c2674a81.png)
+- ![block_difficulty](https://user-images.githubusercontent.com/97932685/179624385-573dfd65-53a6-466e-89fd-6126c2674a81.png)
 
 
 - Click 'validate chain' to verify all transactions in the ledger
-![validate_chain](https://user-images.githubusercontent.com/97932685/179623465-cff6736d-d68f-4abf-b11c-e7ccf07933b9.png)
+- ![validate_chain](https://user-images.githubusercontent.com/97932685/179623465-cff6736d-d68f-4abf-b11c-e7ccf07933b9.png)
 
 
 ## Contributors
